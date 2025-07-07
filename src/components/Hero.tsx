@@ -37,7 +37,7 @@ const Hero = () => {
           <div className='flex items-center justify-center gap-2 mb-6 animate-fade-in'>
             <Sparkles className='w-6 h-6 text-[#778da9] animate-pulse' />
             <span className='text-lg text-[#e0e1dd] font-medium'>
-              Hello, I'm
+              Hello, I&apos;m
             </span>
             <Sparkles className='w-6 h-6 text-[#778da9] animate-pulse' />
           </div>

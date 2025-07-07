@@ -54,9 +54,9 @@ const About = () => {
             </h2>
             <div className='w-24 h-1 bg-[#778da9] mx-auto rounded-full mb-6'></div>
             <p className='text-xl text-[#e0e1dd] max-w-3xl mx-auto leading-relaxed'>
-              I'm a passionate software developer with a strong foundation in
-              full-stack development and a keen eye for creating user-centered
-              solutions.
+              I&apos;m a passionate software developer with a strong foundation
+              in full-stack development and a keen eye for creating
+              user-centered solutions.
             </p>
           </div>
 
@@ -66,17 +66,17 @@ const About = () => {
                 My Journey
               </h3>
               <p className='text-[#e0e1dd] mb-6 leading-relaxed'>
-                With several years of experience in software development, I've
-                had the opportunity to work on diverse projects ranging from web
-                applications to mobile solutions. My passion lies in creating
-                intuitive, efficient, and scalable software that solves
-                real-world problems.
+                With several years of experience in software development,
+                I&apos;ve had the opportunity to work on diverse projects
+                ranging from web applications to mobile solutions. My passion
+                lies in creating intuitive, efficient, and scalable software
+                that solves real-world problems.
               </p>
               <p className='text-[#e0e1dd] mb-8 leading-relaxed'>
                 I believe in continuous learning and staying updated with the
                 latest technologies and best practices in software development.
                 My goal is to contribute to meaningful projects that make a
-                positive impact on users' lives.
+                positive impact on users&apos; lives.
               </p>
 
               <div className='flex items-center gap-4 mb-6'>

@@ -104,7 +104,7 @@ const Contact = () => {
             </h2>
             <div className='w-24 h-1 bg-[#778da9] mx-auto rounded-full mb-6'></div>
             <p className='text-xl text-[#e0e1dd] max-w-3xl mx-auto leading-relaxed'>
-              I'm always open to discussing new opportunities, interesting
+              I&apos;m always open to discussing new opportunities, interesting
               projects, or just having a chat about technology and development
             </p>
           </div>
@@ -115,7 +115,7 @@ const Contact = () => {
               <div className='flex items-center gap-3 mb-8'>
                 <MessageCircle className='w-8 h-8 text-[#778da9]' />
                 <h3 className='text-3xl font-bold text-[#e0e1dd]'>
-                  Let's Connect
+                  Let&apos;s Connect
                 </h3>
               </div>
 
